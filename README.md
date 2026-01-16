@@ -8,6 +8,7 @@ License: MIT
 The "Koine Greek Authorship Attribution with ML & MLOps" project is a comprehensive endeavor aiming to develop a system for attributing authorship to ancient Greek texts from the Koine period. By leveraging Machine Learning (ML) techniques and MLOps (Machine Learning Operations) principles, this project seeks to create a robust, scalable, and reproducible solution.
 
 The primary goal is to build an advanced portfolio project, demonstrating deep proficiency in Data Science, Machine Learning, and DataOps/MLOps, while integrating my personal philological and historical interests.
+
 2. Key Features (Planned)
 
     Data Collection & Preparation: Efficiently acquiring and cleaning Koine Greek texts from various sources.  
@@ -119,6 +120,7 @@ The project is built from the ground up with the best MLOps and DataOps practice
 8. Results & Visualizations (Coming Soon...)
 
 This section will feature key model performance metrics, charts, and example visualizations of authorship attribution results.
+
 9. Roadmap
 
     Phase 1: Foundations: Data collection, exploration, basic feature engineering, environment setup.  
@@ -130,6 +132,7 @@ This section will feature key model performance metrics, charts, and example vis
 10. License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
 11. Contact
 
 Tomasz PASŁAWSKI  
