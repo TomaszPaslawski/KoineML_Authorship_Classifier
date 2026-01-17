@@ -1,5 +1,5 @@
-Text_ID	filename	author	title	period	genre	notes	authorship
-LUKEGOS1	luke_gosepl.txt	Luke	Gosepl According to Luke	NT Koine	Gospel		certain
-PAULROM1	paul_romans.txt	Paul	Letter to Romans	NT Koine	Letter		certain
-PAULCOR1	paul_corinthians.txt	Paul	1st Letter to Corithians	NT Koine	Letter		certain
-NNHEB1	hebrew.txt	Not known	Letter to Hebrew	NT Koine	Letter	Goal text to determine the authorship	in doubt
+Text_ID,filename,author,title,period,genre,notes,authorship
+LUKEGOS1,luke_gospel.txt,Luke,Gospel According to Luke,NT Koine,Gospel, ,certain
+PAULROM1,paul_romans.txt,Paul,Letter to Romans,NT Koine,Letter, ,certain
+PAULCOR1,paul_corinthians.txt,Paul,1st Letter to Corithians,NT Koine,Letter, ,certain
+NNHEB1,hebrew.txt,Not known,Letter to Hebrew,NT Koine,Letter,Goal text to determine the authorship,in doubt
